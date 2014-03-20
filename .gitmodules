@@ -1,0 +1,3 @@
+[submodule "vimconfig"]
+	path = vimconfig
+	url = https://github.com/keazz/vimconfig.git
