@@ -1,3 +1,6 @@
 [submodule "vimconfig"]
 	path = vimconfig
 	url = https://github.com/keazz/vimconfig.git
+[submodule "bashrc-config"]
+	path = bashrc-config
+	url = https://github.com/keazz/bashrc-config.git
