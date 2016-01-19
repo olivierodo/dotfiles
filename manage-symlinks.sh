@@ -41,7 +41,7 @@ function delete_symlinks
 }
 
 
-find $ROOT_DIR -maxdepth 2 \( -name ".*" ! -iname '*.swp' ! -iname '.git*' \) -print0 | while read -d '' -r SYMLINK_SOURCE_PATH;
+find $ROOT_DIR -maxdepth 2 \( -name ".*" ! -iname '*.swp' ! -iname '.git' \) -print0 | while read -d '' -r SYMLINK_SOURCE_PATH;
 do
     SYMLINK_DEST=`basename ${SYMLINK_SOURCE_PATH}`
     $ACTION $SYMLINK_SOURCE_PATH $SYMLINK_DEST
