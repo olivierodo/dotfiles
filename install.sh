@@ -9,8 +9,8 @@ git submodule update --init
 read -p "What is your git name ? " gitName
 read -p "What is your git email ? " gitEmail
 
-git config --global user.name ${gitName}
-git config --global user.email ${gitEmail}
+git config --file ~/.gitconfig.local user.name ${gitName}
+git config --file ~/.gitconfig.local user.email ${gitEmail}
 
 ./scripts/install-vim.sh
 
