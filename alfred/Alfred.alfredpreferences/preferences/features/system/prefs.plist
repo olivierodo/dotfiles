@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>quitKeyword</key>
+	<string>q</string>
+	<key>shutdownKeyword</key>
+	<string>stop</string>
+	<key>volumedownKeyword</key>
+	<string>-</string>
+	<key>volumeupKeyword</key>
+	<string>+</string>
+</dict>
+</plist>
