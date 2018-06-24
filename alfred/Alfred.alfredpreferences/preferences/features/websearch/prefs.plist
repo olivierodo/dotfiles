@@ -212,6 +212,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>D2BD57B7-940D-4D43-93E4-033E298321C4</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gif</string>
+			<key>text</key>
+			<string>Giphy</string>
+			<key>url</key>
+			<string>https://giphy.com/search/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>D9394769-5D19-4FA2-86BB-C3EAA8AA1A12</key>
 		<dict>
 			<key>enabled</key>
