@@ -852,12 +852,17 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
+	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
+	<dict>
+		<key>TB Is Shown</key>
+		<integer>1</integer>
+	</dict>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 383 620 392 0 0 1440 877 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>417 216 958 451 0 0 1440 877 </string>
+	<string>409 393 918 394 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 80 1440 429 0 0 1440 877 </string>
+	<string>0 0 1440 429 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>176 425 570 452 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
@@ -1025,7 +1030,7 @@
 			<key>Background Image Is Tiled</key>
 			<false/>
 			<key>Background Image Location</key>
-			<string>~/dotfiles/iterm2/bg.png</string>
+			<string>/Users/olivierodo/dotfiles/iterm2/bg.png</string>
 			<key>Badge Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -1040,13 +1045,13 @@
 				<real>1</real>
 			</dict>
 			<key>Blend</key>
-			<real>0.59360476762820513</real>
+			<real>0.48068284254807686</real>
 			<key>Blinking Cursor</key>
 			<false/>
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>11.656789340101522</real>
+			<real>7.1005254600253798</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Blue Component</key>
@@ -1124,6 +1129,8 @@
 			<string>F2772324-6B63-4C2F-AE11-09E2A4032623</string>
 			<key>Has Hotkey</key>
 			<true/>
+			<key>Hide After Opening</key>
+			<false/>
 			<key>Horizontal Spacing</key>
 			<real>1</real>
 			<key>HotKey Activated By Modifier</key>
@@ -1468,6 +1475,8 @@
 			<key>Normal Font</key>
 			<string>Monaco 12</string>
 			<key>Only The Default BG Color Uses Transparency</key>
+			<true/>
+			<key>Open Toolbelt</key>
 			<false/>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
@@ -1516,7 +1525,7 @@
 			<key>Thin Strokes</key>
 			<integer>4</integer>
 			<key>Transparency</key>
-			<real>0.0</real>
+			<real>0.20108661167512693</real>
 			<key>Triggers</key>
 			<array>
 				<dict>
