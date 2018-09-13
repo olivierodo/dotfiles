@@ -264,6 +264,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>E6B81F30-3AA6-49CB-B02B-C9A4B9D06B9F</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gitlab</string>
+			<key>text</key>
+			<string>Gitlab</string>
+			<key>url</key>
+			<string>https://git.d00b.pl/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>F0415258-3353-4B3E-90CA-0EBC00D9C7AE</key>
 		<dict>
 			<key>enabled</key>
@@ -274,6 +287,19 @@
 			<string>Kibana</string>
 			<key>url</key>
 			<string>https://oslogs.pink.ap-southeast-1.aws.openpaas.axa-cloud.com/app/kibana#/discover?_g=(refreshInterval:(display:Off,pause:!f,value:0),time:(from:now-15m,mode:quick,to:now))&amp;_a=(columns:!(request.uri,response.status),filters:!(('$$hashKey':'object:2153','$state':(store:appState),meta:(alias:!n,disabled:!f,index:'project.ktaxa-data-api-prod.47af3aa7-f850-11e6-a691-027e726f02e5.*',key:kubernetes.labels.app,negate:!f,value:api-private-gateway),query:(match:(kubernetes.labels.app:(query:api-private-gateway,type:phrase))))),index:'project.ktaxa-data-api-prod.47af3aa7-f850-11e6-a691-027e726f02e5.*',interval:auto,query:(query_string:(analyze_wildcard:!t,query:%22gateway%22)),sort:!('@timestamp',desc))</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>F6F51E88-B5AE-4953-AC9D-FCD2C194C1FE</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>splash</string>
+			<key>text</key>
+			<string>splash</string>
+			<key>url</key>
+			<string>https://unsplash.com/search/photos/{query}</string>
 			<key>utf8</key>
 			<true/>
 		</dict>
