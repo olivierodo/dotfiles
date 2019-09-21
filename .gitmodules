@@ -1,12 +1,12 @@
 [submodule "bashrc-config"]
 	path = bashrc-config
-	url = git@github.com:olivierodo/bashrc-config.git
+	url = https://github.com/olivierodo/bashrc-config.git
 [submodule "git-config"]
 	path = git-config
-	url = git@github.com:olivierodo/git-config.git
+	url = https://github.com/olivierodo/git-config.git
 [submodule "tmux-config"]
 	path = tmux-config
-	url = git@github.com:olivierodo/tmux-config.git
+	url = https://github.com/olivierodo/tmux-config.git
 [submodule "vimconfig"]
 	path = vimconfig
-	url = git@github.com:olivierodo/vimconfig.git
+	url = https://github.com/olivierodo/vimconfig.git
