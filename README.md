@@ -1,16 +1,21 @@
-#dotfiles
+# dotfiles
 
-##installation
+### Optional
 
-Ne pas oublier de supprimer le dossier sample : `rm -rf sample`
+Debian : To prepare the machine, run the command :
+```
+curl https://olivierodo.me/setup-devtop | bash -
+```
 
-Lancer la commande `sh manage-symlinks.sh -i` pour installer
-et `sh manage-symlinks.sh -d` pour désinstaller
+## installation
 
+Just run the command 
+```
+./install.sh
+```
 
-Si vous souhaitez installer les submodules du projet : 
+This repository depend on 2 additional submodules:
 
-* `git submodule init`
-* `git submodule update`
-
-
+* [bashrc-config](https://github.com/olivierodo/bashrc-config)
+* [vimconfig](https://github.com/olivierodo/vimconfig)
+* [tmux-config](https://github.com/olivierodo/tmux-config)
