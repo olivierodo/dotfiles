@@ -173,6 +173,19 @@
 			<key>utf8</key>
 			<true/>
 		</dict>
+		<key>9518085F-5647-4E37-AA5A-AD0A6395D693</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gcloud</string>
+			<key>text</key>
+			<string>gcloud</string>
+			<key>url</key>
+			<string>https://console.cloud.google.com/</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
 		<key>A6C01885-4190-4F3B-852C-00F49A92EC2C</key>
 		<dict>
 			<key>enabled</key>
