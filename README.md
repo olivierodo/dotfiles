@@ -4,7 +4,13 @@
 
 Debian : To prepare the machine, run the command :
 ```
-curl https://olivierodo.me/setup-devtop | bash -
+curl https://olivierodo.me/dev | bash -
+```
+
+
+Mac : To prepare the machine, run the command :
+```
+curl https://olivierodo.me/mac | bash -
 ```
 
 ## installation
